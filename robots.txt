@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-momsm1.indowin.cfd/sitemap.xml
